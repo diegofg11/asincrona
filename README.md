@@ -33,7 +33,7 @@ src/
 │    ├── org/diegofg11/fxml/tabla.fxml
 │    ├── org/diegofg11/css/estilos.css
 │    ├── config.properties
-│    └── init.sql
+│    └── datos.sql
 └── pom.xml
 
 Configuración de la base de datos
